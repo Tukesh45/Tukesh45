@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itpt.co.uk%2Fcourses%2Fdata-analytics%2F&psig=AOvVaw3xEv8o98SVeTCAibZaV6JR&ust=1724932603758000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi0tfHQl4gDFQAAAAAdAAAAABAR)](https://github.com/Tukesh45)
+[![MasterHead]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.itpt.co.uk%2Fcourses%2Fdata-analytics%2F&psig=AOvVaw3xEv8o98SVeTCAibZaV6JR&ust=1724932603758000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi0tfHQl4gDFQAAAAAdAAAAABAR")](https://github.com/Tukesh45)
 <h1 align="center">Hi 👋, I'm Tukaram Munde</h1>
 <h3 align="center">a passionate and motivated fresher data analyst with a strong interest in data analysis, visualization, and storytelling through data. I am eager to contribute my skills in data manipulation, statistical analysis, and Python programming to real-world projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a2fb626ffa877649b899916221b7eb45499a68eeebdf6450b6ca187916af9cb2/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6669742f742f313630302f3438302f302a31694944624c6333593371354b526b622e676966">
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tukesh45&show_icons=true&locale=en" alt="tukesh45" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tukesh45&" alt="tukesh45" /></p>
-

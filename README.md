@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)](https://github.com/Tukesh45)
 <h1 align="center">Hi 👋, I'm Tukaram Munde</h1>
-<h3 align="center">a passionate and motivated fresher data analyst with a strong interest in data analysis, visualization, and storytelling through data. I am eager to contribute my skills in data manipulation, statistical analysis, and Python programming to real-world projects.</h3>
+<h3 align="center">A passionate and motivated fresher data analyst with a strong interest in data analysis, visualization, and storytelling through data. I am eager to contribute my skills in data manipulation, statistical analysis, and Python programming to real-world projects.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a2fb626ffa877649b899916221b7eb45499a68eeebdf6450b6ca187916af9cb2/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6669742f742f313630302f3438302f302a31694944624c6333593371354b526b622e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tukesh45&label=Profile%20views&color=0e75b6&style=flat" alt="tukesh45" /> </p>

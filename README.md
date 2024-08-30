@@ -1,7 +1,7 @@
 [![MasterHead](https://repository-images.githubusercontent.com/245385808/f1342400-cbd9-11eb-84d5-36d6ce41d01a)](https://github.com/Tukesh45)
 <h1 align="center">Hi 👋, I'm Tukaram Munde</h1>
 <h3 align="center">A passionate and motivated fresher data analyst with a strong interest in data analysis, visualization, and storytelling through data. I am eager to contribute my skills in data manipulation, statistical analysis, and Python programming to real-world projects.</h3>
-<img align="right" alt="Coding" width="400" src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU2N2hiOHZ1MTM2ajQyOGpldjIxZXpsdXFrZGsxdnM0a3h6ZjcwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.webp)"/>
+<img align="right" alt="Coding" width="400" src="[(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDU2N2hiOHZ1MTM2ajQyOGpldjIxZXpsdXFrZGsxdnM0a3h6ZjcwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/usXZmmgP9Z7kf39fnq/giphy.webp)](https://giphy.com/gifs/pudgypenguins-data-engineering-doesnt-lie-usXZmmgP9Z7kf39fnq)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tukesh45&label=Profile%20views&color=0e75b6&style=flat" alt="tukesh45" /> </p>
 

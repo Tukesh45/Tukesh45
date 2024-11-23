@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **EDA**
 
-- 🌱 I’m currently learning **Statistics**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **tukarammunde635@gmail.com**
 
